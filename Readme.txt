@@ -7,4 +7,3 @@ If Schleifen??
 
 If(schleife)
 {return false;} :))
-

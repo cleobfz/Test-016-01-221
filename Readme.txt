@@ -17,4 +17,7 @@ und eine letzte
 doch nicht
 jetzt aber eine letzte
 
-funktioniert ?
+Sie sind in einem Verlies eingesperrt. Es gibt zwei Schüsselmeister und zwei Türe.
+Eine bringt sie raus, die andere bedeutet den Tot. 
+Ein Schlüsselmeister sagt immer die Wahrheit, der andere lügt immer.
+Welche Frage müssen sie stellen, um sicher rauszukommen? Sie dürfen nur eine Frage stellen.

@@ -7,3 +7,5 @@ If Schleifen??
 
 If(schleife)
 {return false;} :))
+
+Noch eine zusätzliche Zeile

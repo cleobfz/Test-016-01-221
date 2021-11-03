@@ -7,4 +7,7 @@ package tiere;
  */
 public class Hund {
 
+	public void Wufsound() {
+		
+	}
 }

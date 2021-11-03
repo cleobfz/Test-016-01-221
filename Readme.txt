@@ -23,3 +23,4 @@ Ein Schlüsselmeister sagt immer die Wahrheit, der andere lügt immer.
 Welche Frage müssen sie stellen, um sicher rauszukommen? Sie dürfen nur eine Frage stellen.
 
 Die Antwort ist:
+

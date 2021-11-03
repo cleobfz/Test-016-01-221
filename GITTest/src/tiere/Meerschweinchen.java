@@ -8,10 +8,7 @@ public class Meerschweinchen {
 		this.name = name;
 	}
 	public void geraeusche() {
-		
+		System.out.println("quiek-quiek");
 	}
 	
-public static void main(String[] args) {
-	
-}
 }

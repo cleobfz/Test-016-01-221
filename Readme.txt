@@ -21,3 +21,21 @@ Sie sind in einem Verlies eingesperrt. Es gibt zwei Sch체sselmeister und zwei T�
 Eine bringt sie raus, die andere bedeutet den Tot. 
 Ein Schl체sselmeister sagt immer die Wahrheit, der andere l체gt immer.
 Welche Frage m체ssen sie stellen, um sicher rauszukommen? Sie d체rfen nur eine Frage stellen.
+
+Andy ist 1 Pimmel
+Andy ist 1 Pimmel
+Andy ist 1 Pimmel
+Andy ist 1 Pimmel
+Andy ist 1 Pimmel
+Andy ist 1 Pimmel
+Andy ist 1 Pimmel
+Andy ist 1 Pimmel
+
+Andy ist 1 Pimmel
+Andy ist 1 Pimmel
+Andy ist 1 Pimmel
+Andy ist 1 Pimmel
+Andy ist 1 Pimmel
+Andy ist 1 Pimmel
+Andy ist 1 Pimmel
+
